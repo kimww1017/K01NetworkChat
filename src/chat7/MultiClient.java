@@ -8,6 +8,7 @@ public class MultiClient {
 
 	public static void main(String[] args) {
 		 
+		//키연결
 		System.out.println("이름을 입력하세요:");
 		Scanner scanner = new Scanner(System.in);
 		String s_name = scanner.nextLine();
