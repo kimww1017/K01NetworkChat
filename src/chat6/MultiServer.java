@@ -18,7 +18,7 @@ public class MultiServer {
 	
 	//클라이언트 정보저장을 위한 Map 컬렉션 생성
 	Map<String, PrintWriter> clientMap;
-
+	
 	//생성자
 	public MultiServer() {
 		// 클라이언트의 이름과 출력스트림을 저장할 HashMap 컬렉션 생성
